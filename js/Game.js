@@ -93,7 +93,7 @@ class Game {
       gameState = 2;
     }
    
-    drawSprites();
+    drawSprites()
   }
 
   end(){
